@@ -37,8 +37,6 @@ hr{
 
 .col-sm{
     padding: 5px;
-    background-color: white;
-    
     margin: 10px;
 }
 
@@ -49,3 +47,11 @@ html{
 /*img{
     width: 100%;
 }*/
+
+ul{
+  text-align: left;
+}
+
+ol{
+  text-align: left;
+}
